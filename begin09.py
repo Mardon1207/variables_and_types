@@ -9,3 +9,10 @@
 # Find the result of that expression 'https://github.com/Final-PythonFoundationHomework/variables_and_types/blob/main/README.md#begin09' to variable 'k';
 
 # # Print the variable 'k'.
+
+
+a=8
+b=3
+c=2
+d=4
+print(a+b-c*d)
